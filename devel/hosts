@@ -1,0 +1,8 @@
+127.0.0.1      localhost   localhost.localdomain
+
+172.28.46.2   manager           manager.vagrant
+172.28.46.3   mysql-01-prod     mysql-01-prod.vagrant
+172.28.46.4   mysql-02-prod     mysql-02-prod.vagrant
+172.28.46.5   mysql-03-prod     mysql-03-prod.vagrant
+172.28.46.6   mysql-04-prod     mysql-04-prod.vagrant
+172.28.46.7   mysql-05-prod     mysql-05-prod.vagrant

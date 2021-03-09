@@ -1,0 +1,7 @@
+[Unit]
+Description=Load generator daemon.
+
+[Service]
+ExecStart=python3 /vagrant/devel/helpers/load_generator.py
+Restart=on-failure
+RestartSec=10s

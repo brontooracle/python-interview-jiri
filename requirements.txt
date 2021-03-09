@@ -1,0 +1,16 @@
+click==7.1.2
+cryptography==3.3.0
+fabric2==2.6.0
+flake8==3.8.4
+flask==1.1.2
+itsdangerous==1.1.0
+jinja2==2.11.3
+markupsafe==1.1.1
+mysqlclient==2.0.3
+paramiko==2.5.0
+pyOpenSSL==19.1.0
+pytest==6.2.2
+sqlalchemy==1.2.7
+tabulate==0.8.7
+werkzeug==1.0.1
+# Add any other libraries you want, with or without versions below

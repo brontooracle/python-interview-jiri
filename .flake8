@@ -1,0 +1,5 @@
+[flake8]
+max_complexity = 10
+doctests = True
+ignore = W504
+max-line-length = 89
